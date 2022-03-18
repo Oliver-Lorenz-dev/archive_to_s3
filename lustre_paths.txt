@@ -1,0 +1,15 @@
+/lustre/scratch118/infgen/team133/aw17
+/lustre/scratch118/infgen/team133/jh46
+/lustre/scratch118/infgen/team133/mjs
+/lustre/scratch118/infgen/team133/pd7
+/lustre/scratch118/infgen/team212/bj5
+/lustre/scratch118/infgen/team212/da5
+/lustre/scratch118/infgen/team212/ka10
+/lustre/scratch118/infgen/team212/mk11
+/lustre/scratch118/infgen/team212/zw3
+/lustre/scratch118/infgen/team212/nw17
+/lustre/scratch118/infgen/team212/am61
+/lustre/scratch118/infgen/team212/jg26
+/lustre/scratch118/infgen/team212/jw29
+/lustre/scratch118/infgen/team212/mm35
+/lustre/scratch118/infgen/team212/tm11
